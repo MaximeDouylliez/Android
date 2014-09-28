@@ -9,5 +9,5 @@ L'application effectue le parsing en passant par une classe qui effectue un trai
 
 
 -affichage et utilisation des informations sur une page Google Map.
-Cette partie la fonctionne comme prévue.
+Cette partie là fonctionne comme prévu.
 
